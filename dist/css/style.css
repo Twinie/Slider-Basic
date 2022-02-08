@@ -259,4 +259,19 @@
   background: #869791;
 }
 
+.owl-carousel {
+  text-align: center;
+}
+.owl-carousel .item {
+  max-width: 250px;
+  width: 100%;
+  height: 250px;
+  background-color: aquamarine;
+}
+
+#chart {
+  max-width: 650px;
+  margin: 35px auto;
+}
+
 /*# sourceMappingURL=style.css.map */
